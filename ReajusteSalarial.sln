@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReajusteSalarial", "ReajusteSalarial.csproj", "{6B4E4F92-2731-48C2-9586-115C10638783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4E4F92-2731-48C2-9586-115C10638783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4E4F92-2731-48C2-9586-115C10638783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4E4F92-2731-48C2-9586-115C10638783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4E4F92-2731-48C2-9586-115C10638783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8356E4E2-1D23-433B-AEC4-1BEADD2F94EA}
+	EndGlobalSection
+EndGlobal
